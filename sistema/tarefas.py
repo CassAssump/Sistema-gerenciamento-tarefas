@@ -1,9 +1,9 @@
 class Tarefa:
-    def __init__(self, id, titulo, descricao=""):
+    def __init__(self, id, titulo, descricao="", concluida=False):
         self.id = id
         self.titulo = titulo
         self.descricao = descricao
-        self.concluida = False
+        self.concluida = concluida
 
     def marcar_como_concluida(self):
         self.concluida = True

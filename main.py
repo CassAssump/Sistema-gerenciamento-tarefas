@@ -14,8 +14,6 @@ if __name__ == "__main__":
         print("6. Sair")
         opcao = input("Escolha uma opção: ")
         
-        gerenciador.adicionar_tarefa("Comprar leite", "Ir ao mercado e comprar leite.")
-        gerenciador.adicionar_tarefa("Estudar Python", "Fazer exercícios de orientação a objetos.")
         
         
         if opcao == "1":
