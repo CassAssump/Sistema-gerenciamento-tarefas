@@ -1,4 +1,7 @@
 # Sistema de Gerenciamento de Tarefas
+<p align="center">
+  <em>Feito com 💙 por <a href="https://github.com/CassAssum">Cass</a></em>
+</p>
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
@@ -25,3 +28,6 @@ Este é um simples sistema de gerenciamento de tarefas escrito em Python, utiliz
 │   ├── gerenciador.py
 ├── main.py
 └── README.md
+
+
+
